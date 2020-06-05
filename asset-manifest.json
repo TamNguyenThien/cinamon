@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/layoutalg/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/layoutalg/static/js/main.8e21553f.chunk.js",
-    "main.js.map": "/layoutalg/static/js/main.8e21553f.chunk.js.map",
-    "runtime-main.js": "/layoutalg/static/js/runtime-main.c70f1ea6.js",
-    "runtime-main.js.map": "/layoutalg/static/js/runtime-main.c70f1ea6.js.map",
-    "static/css/2.c6bca3f3.chunk.css": "/layoutalg/static/css/2.c6bca3f3.chunk.css",
-    "static/js/2.86870309.chunk.js": "/layoutalg/static/js/2.86870309.chunk.js",
-    "static/js/2.86870309.chunk.js.map": "/layoutalg/static/js/2.86870309.chunk.js.map",
-    "index.html": "/layoutalg/index.html",
-    "precache-manifest.0b6af33c6c98d7cce5eb5a0e83af79a2.js": "/layoutalg/precache-manifest.0b6af33c6c98d7cce5eb5a0e83af79a2.js",
-    "service-worker.js": "/layoutalg/service-worker.js",
-    "static/css/2.c6bca3f3.chunk.css.map": "/layoutalg/static/css/2.c6bca3f3.chunk.css.map",
-    "static/css/main.5ecd60fb.chunk.css.map": "/layoutalg/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.86870309.chunk.js.LICENSE.txt": "/layoutalg/static/js/2.86870309.chunk.js.LICENSE.txt"
+    "main.css": "/cinamon/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/cinamon/static/js/main.9dc0a091.chunk.js",
+    "main.js.map": "/cinamon/static/js/main.9dc0a091.chunk.js.map",
+    "runtime-main.js": "/cinamon/static/js/runtime-main.e489f7f1.js",
+    "runtime-main.js.map": "/cinamon/static/js/runtime-main.e489f7f1.js.map",
+    "static/css/2.c6bca3f3.chunk.css": "/cinamon/static/css/2.c6bca3f3.chunk.css",
+    "static/js/2.900dcac7.chunk.js": "/cinamon/static/js/2.900dcac7.chunk.js",
+    "static/js/2.900dcac7.chunk.js.map": "/cinamon/static/js/2.900dcac7.chunk.js.map",
+    "index.html": "/cinamon/index.html",
+    "precache-manifest.360696437bfa05ad789c85d6888df5f3.js": "/cinamon/precache-manifest.360696437bfa05ad789c85d6888df5f3.js",
+    "service-worker.js": "/cinamon/service-worker.js",
+    "static/css/2.c6bca3f3.chunk.css.map": "/cinamon/static/css/2.c6bca3f3.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/cinamon/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.900dcac7.chunk.js.LICENSE.txt": "/cinamon/static/js/2.900dcac7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c70f1ea6.js",
+    "static/js/runtime-main.e489f7f1.js",
     "static/css/2.c6bca3f3.chunk.css",
-    "static/js/2.86870309.chunk.js",
+    "static/js/2.900dcac7.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.8e21553f.chunk.js"
+    "static/js/main.9dc0a091.chunk.js"
   ]
 }
